@@ -2,6 +2,6 @@
 
 
 
-![Shreyas's stats](https://github-readme-stats.vercel.app/api?username=shreyazz&show_icons=true&theme=synthwave)
+![Shreyas's stats](https://github-readme-stats.vercel.app/api?username=shreyazz&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyazz&layout=compact)](https://github.com/shreyazz/github-readme-stats)
