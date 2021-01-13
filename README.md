@@ -12,6 +12,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyazz&layout=compact)](https://github.com/shreyazz/github-readme-stats)
 
 
-
+![Metrics](https://metrics.lecoq.io/shreyazz?template=classic&languages=1&config.timezone=Asia%2FKolkata)
 
 
