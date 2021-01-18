@@ -7,7 +7,7 @@
 <hr>
 
 
-<img height=500px src="https://wakatime.com/share/@shreyas_pahune/95860baf-937d-44db-a6fd-0526eca79aad.svg">
+<img height=500px src="https://wakatime.com/share/@shreyas_pahune/e1db654d-3e15-4fa1-9607-3b390568ece2.svg">
 
 <hr>
 
