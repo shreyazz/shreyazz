@@ -17,5 +17,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyazz&layout=compact)](https://github.com/shreyazz/github-readme-stats)
 
-<img height=500px src="https://wakatime.com/share/@shreyas_pahune/314d998c-413a-4627-bf8e-648963ed40b1.svg">
+<img height=500px src="https://wakatime.com/share/@shreyas_pahune/95860baf-937d-44db-a6fd-0526eca79aad.svg">
 
