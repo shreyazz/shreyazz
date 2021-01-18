@@ -6,6 +6,11 @@
 
 <hr>
 
+
+<img height=500px src="https://wakatime.com/share/@shreyas_pahune/95860baf-937d-44db-a6fd-0526eca79aad.svg">
+
+<hr>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyazz&" alt="shreyazz" /></p>
 
 
@@ -14,8 +19,4 @@
 
 <hr>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyazz&layout=compact)](https://github.com/shreyazz/github-readme-stats)
-
-<img height=500px src="https://wakatime.com/share/@shreyas_pahune/95860baf-937d-44db-a6fd-0526eca79aad.svg">
 
