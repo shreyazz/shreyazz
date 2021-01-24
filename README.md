@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;">,I'm Shreyas</h1>
-<h3 align="center">Wassup, I am Shreyas Pahune and I love to code.</h3>
+<h3 align="center">Hey there, welcome to my Github Profile!</h3>
 
 
 ![Shreyas's stats](https://github-readme-stats.vercel.app/api?username=shreyazz&show_icons=true&theme=tokyonight)
