@@ -19,6 +19,6 @@
 
 <hr>
 
-![Metrics](https://metrics.lecoq.io/shreyazz?template=classic&base.community=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata&config.animated=true)
+!![Metrics](https://metrics.lecoq.io/shreyazz?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta&config.animated=true)
 
 
