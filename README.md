@@ -4,10 +4,7 @@
 
 ![Shreyas's stats](https://github-readme-stats.vercel.app/api?username=shreyazz&show_icons=true&theme=tokyonight)
 
-<hr>
 
-
-<img height=500px src="https://wakatime.com/share/@shreyas_pahune/e1db654d-3e15-4fa1-9607-3b390568ece2.svg">
 
 <hr>
 
