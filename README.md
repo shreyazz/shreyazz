@@ -2,7 +2,7 @@
 <h3 align="center">Hey there, welcome to my Github Profile!</h3>
 
 
-![Shreyas's stats](https://github-readme-stats.vercel.app/api?username=shreyazz&show_icons=true&theme=tokyonight)
+![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyazz&theme=radical&show_icons=true)
 
 
 
