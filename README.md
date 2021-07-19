@@ -5,13 +5,13 @@
 
 <br>
 
-![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyazz&theme=radical&show_icons=true)
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyazz&theme=radical&show_icons=true" alt="Shreyazz"</div>
 
 
 
 <hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyazz&" alt="shreyazz" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyazz&" alt="shreyazz" /></p>
 
 
 
