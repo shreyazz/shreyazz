@@ -7,7 +7,6 @@ Full Stack Web Developer
 A developer who likes to turn ideas into code and solve problems that impact people's lives.
 
 *   🌍  I'm based in India
-*   🖥️  See my portfolio at [shreyazz.online](http://shreyazz.online/)
 *   ✉️  You can contact me at [pahuneshreyas@gmail.com](mailto:pahuneshreyas@gmail.com)
 *   🧠  I'm learning Fastify
 *   🤝  I'm open to collaborating on fun projects
